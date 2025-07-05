@@ -24,11 +24,8 @@ The goal of this task is to learn how to identify, review, and remove potentiall
 
 | Extension Name         | Reason It’s Suspicious                                                            |
 |------------------------|-----------------------------------------------------------------------------------|
-| PDF Converter Pro      | Requests access to all websites; injects ads and tracks user activity            |
-| Hola VPN               | Routes traffic through user devices; severe privacy and security concerns        |
-| HD Video Downloader    | Excessive permissions and reports of injecting popups and spyware                |
-| SafeBrowse             | Distributed malware; misuses permissions in the background                       |
-| SuperZoom              | Fake Zoom extension; used in phishing campaigns                                   |
+| PDF Converter Online   | Requests access to all websites; injects ads and tracks user activity            |
+| Hola VPN               | Routes traffic through other users’ devices; logs data; known privacy issues     |
 
 > Note: These extensions were identified through research and have been removed from stores or flagged by users in the past.
 
